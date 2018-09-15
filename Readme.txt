@@ -2,7 +2,7 @@
     Cross Exchange is an arbitrarily trading game developed by a startup in a very short span of time called “Super Traders” . The purpose of the application is to educate users on the terminology used in trading of shares.
 
 Notes:
-    - The project registers share and and allow users to updated price of the share on an hourly basis; the share registered should have unique Symbol to identify it and should be all capital letters with 3 characters. The rate of the share should be exactly 2 decimal digits. 
+    - The project registers share and allow users to updated price of the share on an hourly basis; the share registered should have unique Symbol to identify it and should be all capital letters with 3 characters. The rate of the share should be exactly 2 decimal digits. 
     - Also, the users should have a portfolio before they can start trading in the shares. 
     - The frontend application is excluded from the current scope. It is a separate, fully-functional application handled by another team, and we do not want to modify it.
 
